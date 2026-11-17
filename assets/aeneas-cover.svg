@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Aeneas — Build with curiosity</title>
+<desc id="desc">从真实问题出发，与 AI 一起把想法做出来。AI、产品与实验。</desc>
+<defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#d9dedb" stroke-width="0.6"/></pattern>
+</defs>
+<rect width="1200" height="390" rx="16" fill="#f5f3eb"/>
+<rect x="742" width="458" height="390" rx="16" fill="#e9ede7"/>
+<rect x="742" width="458" height="390" fill="url(#grid)"/>
+<path d="M742 0h16v390h-16" fill="#f5f3eb"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="48" y="37" width="8" height="8" rx="2" fill="#dc623e"/>
+<text x="68" y="46" font-size="13" font-weight="700" letter-spacing="2.4" fill="#4d605e">AENEAS / PERSONAL FIELDNOTES</text>
+<text x="44" y="148" font-size="84" letter-spacing="-4" font-weight="700" fill="#1c3537">Build with</text>
+<text x="44" y="231" font-size="84" letter-spacing="-4" font-weight="700" fill="#1c3537">curiosity<tspan fill="#dc623e">.</tspan></text>
+<text x="49" y="282" font-size="23" font-family="'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" fill="#405452">从真实问题出发，与 AI 一起把想法做出来。</text>
+<path d="M49 317h630" stroke="#d1d6ce"/>
+<text x="49" y="350" font-size="12" letter-spacing="2" font-weight="700" fill="#63716a">AI WORKFLOWS</text>
+<text x="222" y="350" font-size="12" letter-spacing="2" font-weight="700" fill="#63716a">PRODUCT THINKING</text>
+<text x="430" y="350" font-size="12" letter-spacing="2" font-weight="700" fill="#63716a">SMALL EXPERIMENTS</text>
+<path d="M800 108h78q28 0 28 28v122q0 28 28 28h145" fill="none" stroke="#1c3537" stroke-width="2"/>
+<path d="M800 208h248q28 0 28-28v-72" fill="none" stroke="#dc623e" stroke-width="2"/>
+<path d="M979 108v225" fill="none" stroke="#7f9690" stroke-width="2" stroke-dasharray="5 7"/>
+<circle cx="801" cy="108" r="7" fill="#1c3537"/>
+<circle cx="906" cy="208" r="9" fill="#f5f3eb" stroke="#dc623e" stroke-width="3"/>
+<circle cx="979" cy="286" r="7" fill="#1c3537"/>
+<circle cx="1076" cy="108" r="7" fill="#dc623e"/>
+<path d="m1068 277 11 9-11 9" fill="none" stroke="#1c3537" stroke-width="2"/>
+<rect x="772" y="137" width="92" height="26" rx="13" fill="#f5f3eb"/>
+<text x="789" y="155" font-size="12" fill="#1c3537">QUESTION</text>
+<rect x="943" y="52" width="85" height="26" rx="13" fill="#f5f3eb"/>
+<text x="961" y="70" font-size="12" fill="#1c3537">EXPLORE</text>
+<rect x="1012" y="315" width="92" height="26" rx="13" fill="#1c3537"/>
+<text x="1034" y="333" font-size="12" fill="#f5f3eb">VERIFY</text>
+<text x="789" y="364" font-size="11" letter-spacing="2" fill="#63716a">IDEAS → WORK → EVIDENCE</text>
+</g>
+</svg>
