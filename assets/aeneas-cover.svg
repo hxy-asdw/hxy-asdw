@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
 <title id="title">Aeneas — Build with curiosity</title>
-<desc id="desc">从真实问题出发，与 AI 一起把想法做出来。AI、产品与实验。</desc>
+<desc id="desc">Exploring ideas. Making things. Learning along the way.</desc>
 <defs>
 <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#d9dedb" stroke-width="0.6"/></pattern>
 </defs>
@@ -13,7 +13,7 @@
 <text x="68" y="46" font-size="13" font-weight="700" letter-spacing="2.4" fill="#4d605e">AENEAS / PERSONAL FIELDNOTES</text>
 <text x="44" y="148" font-size="84" letter-spacing="-4" font-weight="700" fill="#1c3537">Build with</text>
 <text x="44" y="231" font-size="84" letter-spacing="-4" font-weight="700" fill="#1c3537">curiosity<tspan fill="#dc623e">.</tspan></text>
-<text x="49" y="282" font-size="23" font-family="'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" fill="#405452">从真实问题出发，与 AI 一起把想法做出来。</text>
+<text x="49" y="282" font-size="21" fill="#405452">Exploring ideas. Making things. Learning along the way.</text>
 <path d="M49 317h630" stroke="#d1d6ce"/>
 <text x="49" y="350" font-size="12" letter-spacing="2" font-weight="700" fill="#63716a">AI WORKFLOWS</text>
 <text x="222" y="350" font-size="12" letter-spacing="2" font-weight="700" fill="#63716a">PRODUCT THINKING</text>
