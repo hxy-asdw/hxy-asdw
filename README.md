@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://hxy-asdw.github.io/"><strong>Personal Lab ↗</strong></a>
   &nbsp; / &nbsp;
+  <a href="https://hxy-asdw.github.io/games/pug/">Play a little ↗</a>
+  &nbsp; / &nbsp;
   <a href="mailto:2870854049@qq.com">Say hello</a>
 </p>
 
