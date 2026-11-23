@@ -1,7 +1,5 @@
-<h1 align="center">Build with curiosity.</h1>
-
 <p align="center">
-  Exploring ideas. Making things. Learning along the way.
+  <img src="./assets/aeneas-cover.svg" width="100%" alt="Aeneas — Build with curiosity." />
 </p>
 
 <p align="center">
